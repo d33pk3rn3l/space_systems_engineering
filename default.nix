@@ -32,7 +32,6 @@ pkgs.stdenv.mkDerivation {
     cd $TMPDIR
 
     export HOME=$(pwd)
-    export LD_LIBRARY_PATH="${pkgs.lib.makeLibraryPath [ pkgs.musl ]}"
     
     # Fetch quartz
     cp -r ${quartz-src} ./quartz
@@ -63,5 +62,7 @@ pkgs.stdenv.mkDerivation {
     echo "  * cd quartz"
     echo "  * npm install"
     echo "  * node quartz/bootstrap-cli.mjs build --serve"
+
+    export LD_LIBRARY_PATH="${pkgs.lib.makeLibraryPath [ pkgs.musl ]}"
   '';
 }
