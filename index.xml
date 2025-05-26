@@ -1,0 +1,298 @@
+<rss xmlns:atom="http://www.w3.org/2005/atom" version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Recent content on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <atom:link href="https://quartz.jzhao.xyz/index.xml" rel="self" type="application/rss+xml"/>
+    </channel>
+    <items>
+    <title>Authoring Content</title>
+    <link>https://quartz.jzhao.xyz/authoring-content</link>
+    <guid>https://quartz.jzhao.xyz/authoring-content</guid>
+    <description>All of the content in your Quartz should go in the /content folder. The content for the home page of your Quartz lives in content/index.md. If you’ve setup Quartz already, this folder should already be initailized.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Building your Quartz</title>
+    <link>https://quartz.jzhao.xyz/build</link>
+    <guid>https://quartz.jzhao.xyz/build</guid>
+    <description>Once you’ve initialized Quartz, let’s see what it looks like locally: npx quartz build --serve This will start a local web server to run your Quartz on your computer.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Configuration</title>
+    <link>https://quartz.jzhao.xyz/configuration</link>
+    <guid>https://quartz.jzhao.xyz/configuration</guid>
+    <description>Quartz is meant to be extremely configurable, even if you don’t know any coding. Most of the configuration you should need can be done by just editing quartz.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Hosting</title>
+    <link>https://quartz.jzhao.xyz/hosting</link>
+    <guid>https://quartz.jzhao.xyz/hosting</guid>
+    <description>Quartz effectively turns your Markdown files and other resources into a bundle of HTML, JS, and CSS files (a website!). However, if you’d like to publish your site to the world, you need a way to host it online.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Home</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Home § Welcome to the Space System Engineering digital garden! This repository summarizes the lecture Space System Engineering held at ETH Zurich by Prof.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Layout</title>
+    <link>https://quartz.jzhao.xyz/layout</link>
+    <guid>https://quartz.jzhao.xyz/layout</guid>
+    <description>Certain emitters may also output HTML files. To enable easy customization, these emitters allow you to fully rearrange the layout of the page. The default page layouts can be found in quartz.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Migrating from Quartz 3</title>
+    <link>https://quartz.jzhao.xyz/migrating-from-Quartz-3</link>
+    <guid>https://quartz.jzhao.xyz/migrating-from-Quartz-3</guid>
+    <description>As you already have Quartz locally, you don’t need to fork or clone it again. Simply just checkout the alpha branch, install the dependencies, and import your old vault.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Philosophy of Quartz</title>
+    <link>https://quartz.jzhao.xyz/philosophy</link>
+    <guid>https://quartz.jzhao.xyz/philosophy</guid>
+    <description>A garden should be a true hypertext § The garden is the web as topology. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Quartz Showcase</title>
+    <link>https://quartz.jzhao.xyz/showcase</link>
+    <guid>https://quartz.jzhao.xyz/showcase</guid>
+    <description>Want to see what Quartz can do? Here are some cool community gardens: Quartz Documentation (this site!) Jacky Zhao’s Garden Brandon Boswell’s Garden Scaling Synthesis - A hypertext research notebook AWAGMI Intern Notes Course notes for Information Technology Advanced Theory Data Dictionary 🧠 sspaeti.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Upgrading Quartz</title>
+    <link>https://quartz.jzhao.xyz/upgrading</link>
+    <guid>https://quartz.jzhao.xyz/upgrading</guid>
+    <description> Note This is specifically a guide for upgrading Quartz 4 version to a more recent update. If you are coming from Quartz 3, check out the migration guide for more info.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Redundancy Strategies</title>
+    <link>https://quartz.jzhao.xyz/Concepts/Redundancy-Strategies</link>
+    <guid>https://quartz.jzhao.xyz/Concepts/Redundancy-Strategies</guid>
+    <description>Depending on the lifetime or class of the mission, different redundancy strategies can be applied. The most common strategies to increase reliability are: Single-string: The most basic strategy, where only one component is used for each function.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Reliability Considerations</title>
+    <link>https://quartz.jzhao.xyz/Concepts/Reliability-Considerations</link>
+    <guid>https://quartz.jzhao.xyz/Concepts/Reliability-Considerations</guid>
+    <description>Different classes of missions have different reliability strategies. For critical missions (e.g., human-rated), reliability is paramount, requiring higher quality parts and full redundancy strategies for all critical systems.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Technology Readiness Level</title>
+    <link>https://quartz.jzhao.xyz/Concepts/Technology-Readiness-Level</link>
+    <guid>https://quartz.jzhao.xyz/Concepts/Technology-Readiness-Level</guid>
+    <description>Technology Readiness Level (TRL) § The Technology Readiness Level (TRL) is a method to estimate the maturity of a technology. Originally developed by NASA in the 1970s, this scale has been widely adopted by various organizations.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Architecture</title>
+    <link>https://quartz.jzhao.xyz/advanced/architecture</link>
+    <guid>https://quartz.jzhao.xyz/advanced/architecture</guid>
+    <description>Quartz is a static site generator. How does it work? This question is best answered by tracing what happens when a user (you!) runs npx quartz build in the command line: On the server § After running npx quartz build, npm will look at package.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Creating your own Quartz components</title>
+    <link>https://quartz.jzhao.xyz/advanced/creating-components</link>
+    <guid>https://quartz.jzhao.xyz/advanced/creating-components</guid>
+    <description> Warning This guide assumes you have experience writing JavaScript and are familiar with TypeScript. Normally on the web, we write layout code using HTML which looks something like the following: &lt;article&gt; &lt;h1&gt;An article header&lt;/h1&gt; &lt;p&gt;Some content&lt;/p&gt; &lt;/article&gt; This piece of HTML represents an article with a leading header that says “An article header” and a paragraph that contains the text “Some content”.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Making your own plugins</title>
+    <link>https://quartz.jzhao.xyz/advanced/making-plugins</link>
+    <guid>https://quartz.jzhao.xyz/advanced/making-plugins</guid>
+    <description> Warning This part of the documentation will assume you have working knowledge in TypeScript and will include code snippets that describe the interface of what Quartz plugins should look like.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Paths in Quartz</title>
+    <link>https://quartz.jzhao.xyz/advanced/paths</link>
+    <guid>https://quartz.jzhao.xyz/advanced/paths</guid>
+    <description>Paths are pretty complex to reason about because, especially for a static site generator, they can come from so many places. A full file path to a piece of content? Also a path.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Latex</title>
+    <link>https://quartz.jzhao.xyz/features/Latex</link>
+    <guid>https://quartz.jzhao.xyz/features/Latex</guid>
+    <description>Quartz uses Katex by default to typeset both inline and block math expressions at build time. Syntax § Block Math § Block math can be rendered by delimiting math expression with $$.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Mermaid diagrams</title>
+    <link>https://quartz.jzhao.xyz/features/Mermaid-diagrams</link>
+    <guid>https://quartz.jzhao.xyz/features/Mermaid-diagrams</guid>
+    <description>Quartz supports Mermaid which allows you to add diagrams and charts to your notes. Mermaid supports a range of diagrams, such as flow charts, sequence diagrams, and timelines.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Obsidian compatibility</title>
+    <link>https://quartz.jzhao.xyz/features/Obsidian-compatibility</link>
+    <guid>https://quartz.jzhao.xyz/features/Obsidian-compatibility</guid>
+    <description>Quartz was originally designed as a tool to publish Obsidian vaults as websites. Even as the scope of Quartz has widened over time, it hasn’t lost the ability to seamlessly interoperate with Obsidian.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>RSS Feed</title>
+    <link>https://quartz.jzhao.xyz/features/RSS-Feed</link>
+    <guid>https://quartz.jzhao.xyz/features/RSS-Feed</guid>
+    <description>Quartz creates an RSS feed for all the content on your site by generating an index.xml file that RSS readers can subscribe to. Because of the RSS spec, this requires the baseUrl property in your configuration to be set properly for RSS readers to pick it up properly.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>SPA Routing</title>
+    <link>https://quartz.jzhao.xyz/features/SPA-Routing</link>
+    <guid>https://quartz.jzhao.xyz/features/SPA-Routing</guid>
+    <description>Single-page-app style rendering. This prevents flashes of unstyled content and improves the smoothness of Quartz. Under the hood, this is done by hijacking page navigations and instead fetching the HTML via a GET request and then diffing and selectively replacing parts of the page using micromorph.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Backlinks</title>
+    <link>https://quartz.jzhao.xyz/features/backlinks</link>
+    <guid>https://quartz.jzhao.xyz/features/backlinks</guid>
+    <description>A backlink for a note is a link from another note to that note. Links in the backlink pane also feature rich popover previews if you have that feature enabled.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Callouts</title>
+    <link>https://quartz.jzhao.xyz/features/callouts</link>
+    <guid>https://quartz.jzhao.xyz/features/callouts</guid>
+    <description>Quartz supports the same Admonition-callout syntax as Obsidian. This includes 12 Distinct callout types (each with several aliases) Collapsable callouts &gt; [!info] Title &gt; &gt; This is a callout! See documentation on supported types and syntax here.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Darkmode</title>
+    <link>https://quartz.jzhao.xyz/features/darkmode</link>
+    <guid>https://quartz.jzhao.xyz/features/darkmode</guid>
+    <description>Quartz supports darkmode out of the box that respects the user’s theme preference. Any future manual toggles of the darkmode switch will be saved in the browser’s local storage so it can be persisted across future page loads.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Folder and Tag Listings</title>
+    <link>https://quartz.jzhao.xyz/features/folder-and-tag-listings</link>
+    <guid>https://quartz.jzhao.xyz/features/folder-and-tag-listings</guid>
+    <description>Quartz creates listing pages for any folders and tags you have. Folder Listings § Quartz will generate an index page for all the pages under that folder.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Full-text Search</title>
+    <link>https://quartz.jzhao.xyz/features/full-text-search</link>
+    <guid>https://quartz.jzhao.xyz/features/full-text-search</guid>
+    <description>Full-text search in Quartz is powered by Flexsearch. It’s fast enough to return search results in under 10ms for Quartzs as large as half a million words.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Graph View</title>
+    <link>https://quartz.jzhao.xyz/features/graph-view</link>
+    <guid>https://quartz.jzhao.xyz/features/graph-view</guid>
+    <description>Quartz features a graph-view that can show both a local graph view and a global graph view. The local graph view shows files that either link to the current file or are linked from the current file.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Popover Previews</title>
+    <link>https://quartz.jzhao.xyz/features/popover-previews</link>
+    <guid>https://quartz.jzhao.xyz/features/popover-previews</guid>
+    <description>Like Wikipedia, when you hover over a link in Quartz, there is a popup of a page preview that you can scroll to see the entire content. Links to headers will also scroll the popup to show that specific header in view.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Private Pages</title>
+    <link>https://quartz.jzhao.xyz/features/private-pages</link>
+    <guid>https://quartz.jzhao.xyz/features/private-pages</guid>
+    <description>There may be some notes you want to avoid publishing as a website. Quartz supports this through two mechanisms which can be used in conjunction: Filter Plugins § Filter plugins are plugins that filter out content based off of certain criteria.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Recent Notes</title>
+    <link>https://quartz.jzhao.xyz/features/recent-notes</link>
+    <guid>https://quartz.jzhao.xyz/features/recent-notes</guid>
+    <description>Quartz can generate a list of recent notes for based on some filtering and sorting criteria. Though this component isn’t included in any layout by default, you can add it by using Component.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Syntax Highlighting</title>
+    <link>https://quartz.jzhao.xyz/features/syntax-highlighting</link>
+    <guid>https://quartz.jzhao.xyz/features/syntax-highlighting</guid>
+    <description>Syntax highlighting in Quartz is completely done at build-time. This means that Quartz only ships pre-calculated CSS to highlight the right words so there is no heavy client-side bundle that does the syntax highlighting.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Table of Contents</title>
+    <link>https://quartz.jzhao.xyz/features/table-of-contents</link>
+    <guid>https://quartz.jzhao.xyz/features/table-of-contents</guid>
+    <description>Quartz can automatically generate a table of contents from a list of headings on each page. It will also show you your current scroll position on the site by marking headings you’ve scrolled through with a different colour.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Wikilinks</title>
+    <link>https://quartz.jzhao.xyz/features/wikilinks</link>
+    <guid>https://quartz.jzhao.xyz/features/wikilinks</guid>
+    <description>Wikilinks were pioneered by earlier internet wikis to make it easier to write links across pages without needing to write Markdown or HTML links each time.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Components</title>
+    <link>https://quartz.jzhao.xyz/tags/component</link>
+    <guid>https://quartz.jzhao.xyz/tags/component</guid>
+    <description>Want to create your own custom component? Check out the advanced guide on creating components for more information.</description>
+    <pubDate>Mon, 26 May 2025 15:09:19 GMT</pubDate>
+  </items><items>
+    <title>Configuration Alternatives</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Configuration-Alternatives</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Configuration-Alternatives</guid>
+    <description>Configuration Alternatives § Related: Spacecraft Design Overview Spacecraft can be arranged in countless ways depending on mission goals, payloads, and constraints.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Design Drivers</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Design-Drivers</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Design-Drivers</guid>
+    <description>Design Drivers § Related: Spacecraft Design Overview Spacecraft Design DriversMission SourceImpactThresholdsMassPayload massLaunch vehicle&lt;250 kg, &lt;1,000 kg, &lt;7,000 kgPower ConsumptionPayload designPower sys, solar array configBeyond Mars or &lt;2 weeksCostFundersRipples throughout system&lt;5M,&lt;100M, &lt;$500MScheduleFundersDevelopment process&lt;3 yrs, &lt;5 yrs, &gt;5 yrsLifetimeMission designRedundancy, quality of parts&lt;1 yr, &lt;3 yrs, &lt;5 yrs, &gt;5 yrsReliabilityMission designRedundancy, quality of parts, marginExperimental, operational, human ratedDelta VMission designPropellant load0, 100, 1,000, 2,000OrbitMission designSolar array, thermal, radiation reg, launch vehicle&lt;1,000 km, high-Earth, planetaryPayload Accommodation— Data Rate, Vol, LatencyMission purposeComm, data storage, groundThresholds changing fast— Pointing RequirementsRes or antenna beamAttitude control system&lt;5 deg, &lt;0.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Design Process & Iteration</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Design-Process-&-Iteration</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Design-Process-&-Iteration</guid>
+    <description>Design Process &amp; Iteration § Related: Spacecraft Design Overview Overview § The spacecraft design process is highly iterative. Each phase refines earlier assumptions and updates subsystem requirements.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Spacecraft Budgets</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Spacecraft-Budgets</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Spacecraft-Budgets</guid>
+    <description>Spacecraft Budgets § Info What Are Spacecraft Budgets? Budgets allocate critical resources—mass, power, propellant, and data—across subsystems to ensure the spacecraft design remains feasible and aligned with mission objectives.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Spacecraft Design Overview</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Spacecraft-Design-Overview</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Spacecraft-Design-Overview</guid>
+    <description>Spacecraft Design Overview § This note provides a high-level summary of the Spacecraft Design lecture. Content The iterative design process for spacecraft.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Spacecraft Subsystems</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Spacecraft-Subsystems</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Spacecraft-Subsystems</guid>
+    <description>Spacecraft Subsystems § Abstract What is a Spacecraft Bus? The “spacecraft bus” refers to the core framework or “platform” of any satellite or spacecraft.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Attitude Determination and Control System</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Attitude-Determination-and-Control-System</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Attitude-Determination-and-Control-System</guid>
+    <description>Attitude Determination and Control (ADC) § The Attitude Determination and Control (ADC) subsystem—or Attitude Control System (ACS)—determines the spacecraft’s orientation and reorients it as needed.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Command and Data Handling</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Command-and-Data-Handling</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Command-and-Data-Handling</guid>
+    <description>Command and Data Handling (C&amp;DH) § The C&amp;DH subsystem executes spacecraft commands, collects and stores telemetry, and interfaces with payload data.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Spacecraft Power System</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Power-System</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Power-System</guid>
+    <description>Power § The Power subsystem generates, stores, and distributes electrical power to all spacecraft subsystems and payloads. Abstract Core Functions Generate power (e.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Spacecraft Propulsion System</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Propulsion-System</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Propulsion-System</guid>
+    <description>Propulsion § The Propulsion subsystem supplies thrust for orbital changes, station-keeping, momentum dumps, and de-orbit or extended maneuvers. Abstract Core Functions Generate required ΔV for mission orbit changes.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Spacecraft Structure and Mechanisms</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Structure-and-Mechanisms</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Structure-and-Mechanisms</guid>
+    <description>Structures and Mechanisms § The Structures and Mechanisms subsystem provides the mechanical framework supporting all spacecraft components and handles any moving parts (deployments).</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Spacecraft Thermal Control System</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Thermal-Control-System</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Spacecraft-Thermal-Control-System</guid>
+    <description>Thermal Control § The Thermal Control subsystem keeps spacecraft components within allowable temperature limits across all mission phases. Abstract Core Functions Reject internally generated heat to space.</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items><items>
+    <title>Telemetry Tracking and Command</title>
+    <link>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Telemetry-Tracking-and-Command</link>
+    <guid>https://quartz.jzhao.xyz/Topics/Spacecraft-Design-Overview/Subsystems/Telemetry-Tracking-and-Command</guid>
+    <description>Telemetry, Tracking, and Command (TT&amp;C) § The TT&amp;C subsystem provides the RF link for spacecraft telemetry downlink, command uplink, and tracking (ranging/Doppler).</description>
+    <pubDate>Mon, 26 May 2025 15:09:25 GMT</pubDate>
+  </items>
+  </rss>
