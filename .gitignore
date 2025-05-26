@@ -1,0 +1,13 @@
+.obsidian/
+
+# macOS Stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows Stuff
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+$Recycle.Bin/
