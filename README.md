@@ -1,7 +1,3 @@
-Of course. Here is the updated README with the copyright disclaimer included in the "How to Contribute" section.
-
------
-
 # Space Systems Engineering Notes
 
 This repository contains the content for the [Space Systems Engineering](https://www.google.com/search?q=https://d33pk3rn3l.github.io/space_systems_engineering) digital garden, a summary of the lecture at ETH Zurich. The site is built with [Quartz](https://quartz.jzhao.xyz/) and automatically deployed to GitHub Pages via a GitHub Actions workflow in `.github/workflows/deploy.yml`.
