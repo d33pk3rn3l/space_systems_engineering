@@ -33,6 +33,11 @@ jobs:
           path: content
           fetch-depth: 0
 
+      # Step 2.1: Override default Quartz config with our content's config.
+      - name: Override Default Config
+        run: |
+          cp content/quartz.config.ts .
+
       # Step 3: Setup Node
       - name: Setup Node
         uses: actions/setup-node@v4
