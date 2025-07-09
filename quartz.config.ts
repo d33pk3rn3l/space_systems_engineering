@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "k3rn3l.me/sse_page",
+    baseUrl: "k3rn3l.me/space_systems_engineering",
     ignorePatterns: ["private", "templates", ".obsidian", "transcripts"],
     defaultDateType: "created",
     generateSocialImages: false,
