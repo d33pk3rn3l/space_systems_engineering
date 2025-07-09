@@ -15,5 +15,6 @@
 				"jnoortheen.nix-ide"
 			]
 		}
-	}
+	},
+	"onCreateCommand": "nix-shell --run :"
 }
