@@ -1,0 +1,28 @@
+﻿Topic,Summaries,Lecturer,Date,Author,Reading Ass,Exercise
+Lecture 1: Introduction,,"Simon Stähler, Florian Kehl",16/09/2024,,"1, 2",
+Lecture 2: Space Environment,"Space Environment (Space%20Environment%2016b607ce73f880f684f0cfacb5df8eac.md) ",Simon Stähler,18.09.2024,"Fadri, diwaa@ethz.ch",7,Exercise 1: Space Environment (GH)
+Lecture 3: Systems Engineering Short Course I,"Systems Engineering (Systems%20Engineering%20171607ce73f880f18267c29dcb86b3f0.md) ",Thomas Zurbuchen,23.09.2024,Fadri,"3, 4",
+Lecture 4: Systems Engineering Short Course II,"Systems Engineering (Systems%20Engineering%20171607ce73f880f18267c29dcb86b3f0.md) ",Thomas Zurbuchen,25.09.2024,Fadri,5,
+Lecture 5: Systems Engineering Short Course III,"Systems Engineering (Systems%20Engineering%20171607ce73f880f18267c29dcb86b3f0.md) ",Thomas Zurbuchen,30.09.2024,Fadri,6,System Engineering: Dart & Insight (GH)
+Lecture 6: Spacecraft Design Overview,"Spacecraft Design (Spacecraft%20Design%2016c607ce73f880d8b688e36efdba4239.md) ",Florian Kehl,02.10.2024,k3rn3lp4n1c,14,
+Lecture 7: Orbital Dynamics,"Orbital Dynamics (Orbital%20Dynamics%2016b607ce73f880ad9840ec1eb550cac4.md) ",Anna Kubik,07.10.2024,Fadri,9,Exercise 7: Orbital Dynamics
+Lecture 8: Orbit and Constellation Design,"Orbital Dynamics (Orbital%20Dynamics%2016b607ce73f880ad9840ec1eb550cac4.md) ",Anna Kubik,09.10.2024,Fadri,10,Exercise 8: Orbital Mechanics (GH)
+Lecture 9: Spacecraft Communications,"Communication (Communication%2082dca2f0477246a9a411dccdbc834425.md) ",Reto Muff,14.10.2024,Leon Thomm,16,Exercise 9: Space Com
+Lecture 10: Subsystems I - Comms & Power,"Communication (Communication%2082dca2f0477246a9a411dccdbc834425.md) ",Reto Muff,16.10.2024,Leon Thomm,21,Exercise 10: Link Budget
+Lecture 11: Subsystems II - Propulsion,Propulsion (Propulsion%2016f607ce73f880ba9a1bdeeadeee5def.md) (only first part well covered),Markus Jäger,21.10.2024,Gloria,"18, Space Propulsion Analysis and Design (Humble, Henry & Larson, Space Technology Series), Review Rocket and Spacecraft Propulsion (Turner, Martin J. L., Springer)",Propulsion lab (in class)
+Lecture 12: Subsystems III - Controls & Computing,"Controls & Computing (Controls%20&%20Computing%2016c607ce73f8805c823dcba6ec0f7542.md) ",Thomas Zurbuchen,23.10.2024,k3rn3lp4n1c,"19, 20",CanSat intro (in class)
+Lecture 13: Subsystems IV - Structure & Thermal,"Structure & Thermals (Structure%20&%20Thermals%20174607ce73f880b09906c7d34b630830.md)  ",Michael Gschweitl,28.10.2024,,22,Exercise 13: Thermal Structures (in class)
+Lecture 14: Sustainability,"Sustainability (Sustainability%20171607ce73f880c19f11db930be5758e.md) ","Emmanuelle David, Karin Treyer",30.10.2024,,30,Exercise 14: LCA (in class)
+Lecture 15: Payload Design Overview,DRAFT: Payload Design Overview (DRAFT%20Payload%20Design%20Overview%2016c607ce73f8803e9442dd93a2b014b8.md),"Florian Kehl, Simon Stähler",04.11.2024,Gloria,15,
+Lecture 16: Observational Payloads,"Observational Payload (Observational%20Payload%20078adf00d67e4d688f0e6ed7cd41d3a5.md) ",Nick Thomas,06.11.2024,,17,Observational Payloads (GH)
+Lecture 17: Earth Observation Missions,"Earth Observation (Earth%20Observation%2016a607ce73f8801ba788d8a0275c155a.md) ",Andrea Manconi,11.11.2024,Fadri,8,EO on other planets (in class)
+Lecture 18: Logistics & MAIT,"Logistics & MAIT (Logistics%20&%20MAIT%20171607ce73f880e5aae6e2d69bd87ec9.md) ","Thomas Zurbuchen, Michael Merz",13.11.2024,,23,Strategic planning & QUality assessment (in class)
+Lecture 19: System Engineering Recap,,Thomas Zurbuchen,18.11.2024,,,
+Lecture 20: Human Spaceflight,"Human Spaceflight (Human%20Spaceflight%20171607ce73f88054aa0bc437ac572555.md) ",Claude Nicollier,20.11.2024,,,
+Lecture 21: Project Management I,"Project Management (Project%20Management%2016c607ce73f8804396e8c3f5de54c9a5.md) ",Stefan Kögl,25.11.2024,Gloria,"11, 12.1, 12.2",Estimation exercise (in class)
+Lecture 22: Project Management II,"Project Management (Project%20Management%2016c607ce73f8804396e8c3f5de54c9a5.md) ",Stefan Kögl,27.11.2024,Gloria,13,EVA (in class)
+Lecture 23: Project Management III,"Project Management (Project%20Management%2016c607ce73f8804396e8c3f5de54c9a5.md) ",Stefan Kögl,02.12.2024,Gloria,24,Apollo 13 root cuase analysis (in class)
+Lecture 24: Launch Vehicles,"Launch Vehicles (Launch%20Vehicles%20173607ce73f880bf8d58d4f4593e74a2.md) ",Simon Stähler,04.12.2024,Fadri,26,Calculation Moon landing (in class)
+Lecture 25: Mission Operations,lecture cancelled,Thomas Zurbuchen,09.12.2024,,"12.3, 29",
+Lecture 26: Ground System Design,"Ground Systems (Ground%20Systems%20171607ce73f880d2bf04f028b004a87f.md) ",André Csillaghy,11.12.2024,,28,
+Lecture 27: Launch Operations,"DRAFT: Launch Operations (DRAFT%20Launch%20Operations%2016f607ce73f8806abdbcc70181fc0a78.md) ",Deborah Müller,16.12.2024,Fadri,27,
