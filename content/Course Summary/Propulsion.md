@@ -50,7 +50,7 @@ $m_p$: Propellant mass [kg]
 
 MR: mass ratio between initial mass and final mass
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image.png)
 
 ## Specific impulse
 
@@ -70,11 +70,11 @@ $g_0$: earth gravitational acceleration [m/s^2] = 9.8065 m/s^2
 
 → for same $\Delta v$ needed the MR is smaller for higher $v_e$ = higher efficiency
 
-![image.png](image%201.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image1.png)
 
 → the higher $v_e$ the higher MR! ⇒ need staging!
 
-![image.png](image%202.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image2.png)
 
 ### Mission feasibility limit
 
@@ -121,11 +121,11 @@ $$
 \lambda = \frac{m_{PL}}{m_d+m_p}
 $$
 
-![For epsilon = 0.15, N: number of stages ](image%203.png)
+![For epsilon = 0.15, N: number of stages ](/Course%20Summary/_resources/Propulsion-image3.png)
 
 For epsilon = 0.15, N: number of stages 
 
-![For epsilon = 0.10, N: number of stages](image%204.png)
+![For epsilon = 0.10, N: number of stages](/Course%20Summary/_resources/Propulsion-image4.png)
 
 For epsilon = 0.10, N: number of stages
 
@@ -180,11 +180,11 @@ For epsilon = 0.10, N: number of stages
 
 Propulsion System = Energy Converter/Accelerator
 
-![image.png](image%205.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image5.png)
 
 Generic Block Diagram:
 
-![image.png](image%206.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image6.png)
 
 **Overview Table System & ISP**
 
@@ -248,7 +248,7 @@ Hot water flows trough nozzle → pressure $\downarrow$, H2O converts to steam, 
 
 System:
 
-![image.png](image%207.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image7.png)
 
 Overview: 
 
@@ -264,13 +264,13 @@ Overview:
 | Gaseous Propellants | Propellant in gaseous form (e.g., water split into hydrogen and oxygen via electrolysis). | High performance (high Isp), can also be used in fuel cells for electrical power. | Requires high-temperature resistant materials for combustion chamber. | Advanced propulsion experiments. |
 | Gel Propellants | Special rheological properties, distinct from conventional liquid propellants. | Combines safety of solids with some performance of liquids. | Limited testing and availability. | Experimental systems. |
 
-![image.png](image%208.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image8.png)
 
 ### Solid
 
 Concept: 
 
-![image.png](image%209.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image9.png)
 
 Key parameter: 
 
@@ -280,33 +280,33 @@ Key parameter:
 
 Burning area:
 
-![image.png](image%2010.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image10.png)
 
-![image.png](image%2011.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image11.png)
 
 ### Hybrid
 
 Concept: 
 
-![image.png](image%2012.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image12.png)
 
 ### Liquid
 
 Mono-propellant:
 
-![image.png](image%2013.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image13.png)
 
 Bi-propellant: 
 
-![image.png](image%2014.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image14.png)
 
 Toxicity:
 
-![image.png](image%2015.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image15.png)
 
 ### Gaseous
 
-![image.png](image%2016.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image16.png)
 
 ---
 
@@ -314,12 +314,12 @@ Toxicity:
 
 Concept: 
 
-![image.png](image%2017.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image17.png)
 
 Overview:
 
-![image.png](image%2018.png)
+![image.png](/Course%20Summary/_resources/Propulsion-image18.png)
 
 Here’s what chat did:
 
-![DALL·E 2025-01-04 11.42.05 - A visually appealing infographic poster summarizing types of propulsion systems for space exploration. The design includes four main sections_ 1. Ther.webp](DALLE_2025-01-04_11.42.05_-_A_visually_appealing_infographic_poster_summarizing_types_of_propulsion_systems_for_space_exploration._The_design_includes_four_main_sections__1._Ther.webp)
+![DALL·E 2025-01-04 11.42.05 - A visually appealing infographic poster summarizing types of propulsion systems for space exploration. The design includes four main sections_ 1. Ther.webp](/Course%20Summary/_resources/Propulsion-DALLE_2025-01-04_11.42.05_-_A_visually_appealing_infographic_poster_summarizing_types_of_propulsion_systems_for_space_exploration._The_design_includes_four_main_sections__1._Ther.webp)

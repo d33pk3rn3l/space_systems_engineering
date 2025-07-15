@@ -53,7 +53,9 @@ That's why we need good design and thorough testing
 
 Think of mission computer systems of all components, from the spacecraft itself, to development tools and testing systems. 
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/Controls&Computing-image.png)
+
+![[/Course%20Summary/_resources/Controls&Computing-image.png]]
 
 Mission Computer Systems have many interfaces. Managing these interfaces and keeping them interoperable uses a lot of resources. 
 
@@ -159,7 +161,7 @@ We can approach the system requirements definition by asking the following quest
 
 ### Centralized Topology
 
-![image.png](image%201.png)
+![image.png](/Course%20Summary/_resources/Controls&Computing-image1.png)
 
 In a centralized topology, units connect directly to a central hub or management computer, offering high reliability for a limited number of well-defined subsystems.
 
@@ -167,7 +169,7 @@ However, it requires extensive wiring and makes adding new components complex, n
 
 ### Ring Topology
 
-![image.png](image%202.png)
+![image.png](/Course%20Summary/_resources/Controls&Computing-image2.png)
 
 A Ring Topology allows data to travel around a ring, delivering the same information to multiple nodes. It uses smaller, distributed wiring harnesses, ideal for spacecraft layouts. 
 
@@ -186,7 +188,7 @@ Test bed persists after launch and becomes ground-test opportunities before uplo
 
 What is testing: Testing starts with low-level **software (unit, module)** and **hardware (component, acceptance)** tests, progresses to **stand-alone functional tests** for ground- and space-based systems, and culminates in **system integration, testing, and on-orbit calibration**, verifying mission requirements.
 
-![image.png](image%203.png)
+![image.png](/Course%20Summary/_resources/Controls&Computing-image3.png)
 
 # Key Characteristics and Challenges
 
@@ -234,7 +236,7 @@ Spacecraft design often focuses on hardware, leading to reactive software develo
 - Encapsulated implementation details
 - Allows for internal changes without affecting other layers
 
-![image.png](image%204.png)
+![image.png](/Course%20Summary/_resources/Controls&Computing-image4.png)
 
 ## Bus Architecture
 
@@ -242,14 +244,14 @@ Spacecraft design often focuses on hardware, leading to reactive software develo
 - Minimizes interdependencies
 - Enables independent testing and “plug and play” capabilities
 
-![image.png](image%205.png)
+![image.png](/Course%20Summary/_resources/Controls&Computing-image5.png)
 
 ## Core Flight System (cFS)
 
 - NASA-developed reusable software framework
 - Modular architecture for scalability and portability
 
-![image.png](image%206.png)
+![image.png](/Course%20Summary/_resources/Controls&Computing-image6.png)
 
 # Controls + Computing Summary handwritten
 

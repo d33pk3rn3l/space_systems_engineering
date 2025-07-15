@@ -18,7 +18,7 @@ The lecture on **Launch, Ascent, and Entry Operations** provided a detailed exam
 - The Tsiolkovsky rocket equation governs ΔV and mass ratios​.
 - Efficiency is measured by the specific impulse (Isp)
     
-    ![Overview over the different Isps of different propellants](image.png)
+    ![Overview over the different Isps of different propellants](/Course%20Summary/_resources/DRAFTLaunchOperations-image.png)
     
     Overview over the different Isps of different propellants
     
@@ -34,7 +34,7 @@ The lecture on **Launch, Ascent, and Entry Operations** provided a detailed exam
 - Orbit insertion: Bringing the spacecraft to a stable orbit
 - On different planets with different Atmospheres need different launch angles
 
-![image.png](image%201.png)
+![image.png](/Course%20Summary/_resources/DRAFTLaunchOperations-image1.png)
 
 - Inclination and launch latitude: The minimum inclination of a spacecraft is the latitude of the launchpad. If the rocket launches eastwards (prograde Orbit) the earth rotation velocity can also be used.
 - 
@@ -89,7 +89,7 @@ The lecture on **Launch, Ascent, and Entry Operations** provided a detailed exam
     
     $\gamma$: flight path angle (angle from horizontal)
     
-    ![image.png](image%202.png)
+    ![image.png](/Course%20Summary/_resources/DRAFTLaunchOperations-image2.png)
     
 2. **Mass of propellant for a given $\Delta v$**
     

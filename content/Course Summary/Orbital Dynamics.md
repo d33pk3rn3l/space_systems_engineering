@@ -43,7 +43,7 @@ The PDF of Yara’s summary can be found here [Yara Orbital](Yara%20Orbital%2017
     - L1, L2, L3: Unstable
     - L4, L5: Stable
     
-    ![sun-earth-lagrange-1904468025.png](sun-earth-lagrange-1904468025.png)
+    ![sun-earth-lagrange-1904468025.png](/Course%20Summary/_resources/OrbitalDynamics-sun-earth-lagrange-1904468025.png)
     
     - Orbits near Lagrange points, such as Halo orbits, are vital for missions like the James Webb Space Telescope​​.
 
@@ -84,7 +84,7 @@ The PDF of Yara’s summary can be found here [Yara Orbital](Yara%20Orbital%2017
     - ω: Argument of perigee.
     - ν: True anomaly (position in orbit).
 
-![raan270-123729547.png](raan270-123729547.png)
+![raan270-123729547.png](/Course%20Summary/_resources/OrbitalDynamics-raan270-123729547.png)
 
 ---
 
@@ -130,7 +130,7 @@ $$
 - **Bi-Elliptic Transfer**: Efficient for large ratio changes in orbit size.
 - **Plane Changes**: Expensive maneuvers that alter inclination​​.
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/OrbitalDynamics-image.png)
 
 ### Types of orbital maneuvers:
 
@@ -142,9 +142,9 @@ fast but propellant-intensive
 - **Aerobraking**: Utilizes atmospheric drag to reduce velocity without propellant.
 - **Phasing maneuvers:** adjustment of the time-position of a spacecraft
 
-![image.png](image%201.png)
+![image.png](/Course%20Summary/_resources/OrbitalDynamics-image1.png)
 
-![image.png](image%202.png)
+![image.png](/Course%20Summary/_resources/OrbitalDynamics-image2.png)
 
 ---
 
@@ -248,7 +248,7 @@ This part is more of an additional Information because it has been **hardly cove
         - ω: Argument of perigee.
         - ν: True anomaly (position in orbit).
     
-    ![raan270-123729547.png](raan270-123729547.png)
+    ![raan270-123729547.png](/Course%20Summary/_resources/OrbitalDynamics-raan270-123729547.png)
     
 2. **$\Delta v$ Requirements**:
     - Key for estimating mission costs. Δv budgets include launch, orbital insertion, station-keeping, and transfer maneuvers​​.
@@ -266,6 +266,6 @@ In this part there are too many formulas please check the formula collection fro
 
 ## Additional Information
 
-![Solar_system_delta_v_map.svg.png](Solar_system_delta_v_map.svg.png)
+![Solar_system_delta_v_map.svg.png](/Course%20Summary/_resources/OrbitalDynamics-Solar_system_delta_v_map.svg.png)
 
 [Yara Orbital](Yara%20Orbital%20171607ce73f880849c41f8f1c421868b.md)

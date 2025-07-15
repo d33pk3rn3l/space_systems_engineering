@@ -31,7 +31,7 @@ This detailed summary examines the **space environment** and its effects on spac
 
 📚 Memorize
 
-![1000_F_526387147_4FVgKx74IV6J9WFC9o02rPEnPdaL9A1T.jpg](1000_F_526387147_4FVgKx74IV6J9WFC9o02rPEnPdaL9A1T.jpg)
+![1000_F_526387147_4FVgKx74IV6J9WFC9o02rPEnPdaL9A1T.jpg](/Course%20Summary/_resources/SpaceEnvironment-1000_F_526387147_4FVgKx74IV6J9WFC9o02rPEnPdaL9A1T.jpg)
 
 ---
 
@@ -81,7 +81,7 @@ This detailed summary examines the **space environment** and its effects on spac
     - **Shielding with aluminum** to reduce particle penetration (but **secondary radiation** becomes significant at a certain point).
     - Enhanced **material design** to withstand low-energy particle effects like erosion and heating.
     
-    ![image.png](image.png)
+    ![image.png](/Course%20Summary/_resources/SpaceEnvironment-image.png)
     
 
 ---

@@ -1,6 +1,6 @@
 # Space Systems Engineering - Student Resources
 
-This repository contains the sources for the student website of the [Space Systems Engineering](https://www.google.com/search?q=https://d33pk3rn3l.github.io/space_systems_engineering) course at ETH Zurich. including a summary of the lecture contents.
+This repository contains the sources for the student website of the [Space Systems Engineering](https://www.google.com/search?q=https://d33pk3rn3l.github.io/space_systems_engineering) program at ETH Zurich.
 
 ## Build
 

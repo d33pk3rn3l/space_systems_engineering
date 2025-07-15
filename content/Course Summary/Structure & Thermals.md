@@ -31,7 +31,7 @@
 - Random Vibrations: Acoustic Pressure
 - Shock: High frequency - pyrotechnics (separation)
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image.png)
 
 ### Structural Calssification:
 
@@ -41,19 +41,19 @@
 
 **Primary Structures**
 
-![image.png](dc1cb3e4-f2b8-4f89-8a55-f184a5c60264.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-dc1cb3e4-f2b8-4f89-8a55-f184a5c60264.png)
 
 Satellite bus, launch vehicle adapter
 
 **Secondary Structures**
 
-![image.png](image%201.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image1.png)
 
 appendage booms, support trusses, platforms, solar panels, antenna dishes
 
 **Tertiary Structure**
 
-![image.png](image%202.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image2.png)
 
 Brackets, component housing, electronic boxes, cable supports
 
@@ -61,7 +61,7 @@ Brackets, component housing, electronic boxes, cable supports
 
 ### Design Process
 
-![image.png](image%203.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image3.png)
 
 1. **Initial Configuration**: Conceptual design, system-level.
 2. **Preliminary Design**: Trade studies, material selection.
@@ -75,7 +75,7 @@ Brackets, component housing, electronic boxes, cable supports
 
 - **Requirements**: Must be strong, lightweight, thermally stable, and resistant to space conditions.
 
-![image.png](image%204.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image4.png)
 
 **Mechanical Properties**:
 
@@ -110,7 +110,7 @@ Brackets, component housing, electronic boxes, cable supports
 - **Random Vibration Testing**: Using a shaker to simulate random vibrations.
 - **Shock Testing**: Simulating pyrotechnic shocks.
 
-![image.png](image%205.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image5.png)
 
 ---
 
@@ -126,7 +126,7 @@ Brackets, component housing, electronic boxes, cable supports
 - **Convection**: Heat transfer through fluid movement, **not present in space.**
 - **Radiation**: Heat transfer via electromagnetic radiation.
 
-![image.png](image%206.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image6.png)
 
 ---
 
@@ -138,7 +138,7 @@ Brackets, component housing, electronic boxes, cable supports
 
 ### Radiant Energy
 
-![image.png](image%207.png)
+![image.png](/Course%20Summary/_resources/Structure&Thermals-image7.png)
 
 - **Direct Solar Flux**: Energy from the sun, dependent on distance and orientation.
 - **Albedo**: Reflected solar energy from a planet.
@@ -170,7 +170,7 @@ Brackets, component housing, electronic boxes, cable supports
 - **Natural Frequency:**  Frequency at which structure resonates. Important to avoid matching the natural frequency of the spacecraft with frequencies of the launcher.
 - **Stiffness:** Measure of a Structure’s resistance to deformation: Force/Displacement
 
-![designing-for-stiffness_material-properties01.jpg](designing-for-stiffness_material-properties01.jpg)
+![designing-for-stiffness_material-properties01.jpg](/Course%20Summary/_resources/Structure&Thermals-designing-for-stiffness_material-properties01.jpg)
 
 ### Structural Subsystem
 

@@ -73,7 +73,7 @@ Mayor types of payloads:
 
 ### Types and Functions
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image.png)
 
 **Remote Sensing:**
 
@@ -129,7 +129,7 @@ Important: Iterative process!
 
 Process of Payload design/requirements derival
 
-![Tab. 15-1: The process moves from mission requirements to payload design in three steps: requirement analysis, subject trade, payload analysis](image%201.png)
+![Tab. 15-1: The process moves from mission requirements to payload design in three steps: requirement analysis, subject trade, payload analysis](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image1.png)
 
 Tab. 15-1: The process moves from mission requirements to payload design in three steps: requirement analysis, subject trade, payload analysis
 
@@ -149,7 +149,7 @@ Tab. 15-1: The process moves from mission requirements to payload design in thre
 - what does the payload measure/with what shall it interact?
 - Selection of PL will influence power, cost, mission concept → difference in active and passive!
 
-![Tab 15-4](image%202.png)
+![Tab 15-4](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image2.png)
 
 Tab 15-4
 
@@ -195,7 +195,7 @@ Minimum amount of $ necessary to be able to achieve performance at all
 Factors: Size, Mass, Power, Datarate, Lifeduration
 Operational constraints: Planning&Coordination of payload task executions → limited sensor duty cycles, tasking & scheduling limits on sensor time + resource contention: inability of sensor to view two targets of interest at same time.
 
-![Tab 15-2: The tangent point is the highest performance per cost unit. Threshold: just so that mission still works, Baseline: Ideal mission](image%203.png)
+![Tab 15-2: The tangent point is the highest performance per cost unit. Threshold: just so that mission still works, Baseline: Ideal mission](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image3.png)
 
 Tab 15-2: The tangent point is the highest performance per cost unit. Threshold: just so that mission still works, Baseline: Ideal mission
 
@@ -256,28 +256,28 @@ Design process:
 
 ## Geophysical Payloads
 
-![image.png](image%204.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image4.png)
 
 Magnetometers
 
-![image.png](image%205.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image5.png)
 
-![image.png](image%206.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image6.png)
 
 Seismometers → SIMON LOVES THEM
 
-![image.png](image%207.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image7.png)
 
-![image.png](image%208.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image8.png)
 
 Ground Penetrating Radar
 
-![image.png](image%209.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image9.png)
 
-![image.png](image%2010.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image10.png)
 
 Heat Flow probes
 
-![image.png](image%2011.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image11.png)
 
-![image.png](image%2012.png)
+![image.png](/Course%20Summary/_resources/DRAFTPayloadDesignOverview-image12.png)

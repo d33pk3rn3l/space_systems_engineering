@@ -53,7 +53,7 @@ The evolution of launch vehicles from the 1940s has seen transformative advancem
 
 ## Launch vehicle selection
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/LaunchVehicles-image.png)
 
 ### **Orbit accuracy:**
 
@@ -64,7 +64,7 @@ The evolution of launch vehicles from the 1940s has seen transformative advancem
 
 Different launchers (and launchpads) are specialised for different orbits. In the following image it is visible that Ariane 6 is better for a GTO while the falcon 9 is better for the ISS.
 
-![image.png](image%201.png)
+![image.png](/Course%20Summary/_resources/LaunchVehicles-image1.png)
 
 Different mission types have different requirements for launchers.
 

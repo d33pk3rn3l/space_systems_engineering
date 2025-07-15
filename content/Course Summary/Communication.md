@@ -190,15 +190,15 @@ $$
     
     The EM spectrum is organized in bands, there exist several standards for RF. We consider IEEE.
     
-    ![Screenshot_20250102_175150.png](Screenshot_20250102_175150.png)
+    ![Screenshot_20250102_175150.png](/Course%20Summary/_resources/Communication-Screenshot_20250102_175150.png)
     
     Laser comm is more sensitive to atmospheric interaction, and today terminals mostly use the spectrum around 1550nm. This spectrum is divided into 100GHz bands by the ITU.
     
-    ![Screenshot_20250105_143652.png](Screenshot_20250105_143652.png)
+    ![Screenshot_20250105_143652.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_143652.png)
     
 - Laser Links - Block Diagram
     
-    ![Screenshot_20250105_180758.png](Screenshot_20250105_180758.png)
+    ![Screenshot_20250105_180758.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_180758.png)
     
 
 # Modulation Techniques
@@ -214,14 +214,14 @@ While the carrier fixed, the set of frequancies that make up the final signal (v
     
     On the right is the state space of OOK, where the signal is either the carrier without phase shift (angle 0), or has no amplitude (i.e., no signal).
     
-    ![Screenshot_20250105_145209.png](Screenshot_20250105_145209.png)
+    ![Screenshot_20250105_145209.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_145209.png)
     
 
 **On-Off-Keying (OOK)**
 
 The bitstream is directly multiplied with the carrier signal.
 
-![Screenshot_20250105_144916.png](Screenshot_20250105_144916.png)
+![Screenshot_20250105_144916.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_144916.png)
 
 **Pulse-Position-Modulation (PPM)**
 
@@ -229,7 +229,7 @@ The signal is interpreted in chunks of length $l$ (here $l=8$). Only one value i
 
 Can be more effective than OOK because we only need one pulse per $\log_2 l$ bits, allowing it to contain more energy and be more robust to noise.
 
-![Screenshot_20250105_144945.png](Screenshot_20250105_144945.png)
+![Screenshot_20250105_144945.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_144945.png)
 
 **Differential Phase Shift Keying (DPSK)**
 
@@ -241,19 +241,19 @@ We select a number $2^k$ of states in the constellation diagram, each encoding $
 
 Simple DPSK only modifies the phase shift, but more complex DPSK can also modify the amplitude (i.e. the radius from the origin in the constellation diagram).
 
-![Screenshot_20250105_145134.png](Screenshot_20250105_145134.png)
+![Screenshot_20250105_145134.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_145134.png)
 
 BPSK (binary)
 
-![Screenshot_20250105_150940.png](Screenshot_20250105_150940.png)
+![Screenshot_20250105_150940.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_150940.png)
 
 QPSK (quadrature)
 
-![Screenshot_20250105_145114.png](39f05f8f-f075-43bc-bb1f-7079479a42d7.png)
+![Screenshot_20250105_145114.png](/Course%20Summary/_resources/Communication-39f05f8f-f075-43bc-bb1f-7079479a42d7.png)
 
 BPSK example
 
-![Screenshot_20250105_145049.png](Screenshot_20250105_145049.png)
+![Screenshot_20250105_145049.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_145049.png)
 
 # Error Correction
 
@@ -272,14 +272,14 @@ $$
 
 It’s like a RAID computer backup system, but interleaving is across time not servers.
 
-![Screenshot_20250105_153806.png](Screenshot_20250105_153806.png)
+![Screenshot_20250105_153806.png](/Course%20Summary/_resources/Communication-Screenshot_20250105_153806.png)
 
 ## BER, FEC, Eb/No, SNR interconnection
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/Communication-image.png)
 
 # Link Budgets
 
-![RF link budget example](Screenshot_20250105_160848.png)
+![RF link budget example](/Course%20Summary/_resources/Communication-Screenshot_20250105_160848.png)
 
 RF link budget example

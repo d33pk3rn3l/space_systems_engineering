@@ -89,7 +89,7 @@ KDP B, System Requirements Review (SRR), Supporting Reviews |  |
 - Command, Control and Communications Architecture
 - Subject
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/SystemsEngineering-image.png)
 
 ### Mission architecture vs mission concept
 
@@ -320,4 +320,17 @@ The Europa Clipper mission, led by NASA, is set to explore **Jupiter's moon Euro
 
 **measures of effectiveness (MoEs)**(how good the system meets the objectives)
 
-[Clarifications](Clarifications%20172607ce73f88072b162e776f199d1cf.md)
+---
+
+## Clarifications
+
+System Algorithms:
+
+- Describe how good a subsystem or system works. This is often done for instruments. An Example is an algorithm to classify the relation of aperture size and resolution and the wavelength dependence of optical devices.
+- The downside is that all real systems are imperfect which is not regarded in the formulas.
+
+Costs often experience major growth between Phases C-D
+
+- Certain Subsystems were forgotten
+- Certain requirements over-constrain subsystems
+- Requirements change late → redesign and wasted efforts

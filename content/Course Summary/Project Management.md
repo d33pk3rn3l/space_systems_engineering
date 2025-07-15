@@ -44,7 +44,7 @@ Why PM?
 
 ## The magic triangle
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image.png)
 
 *Scope: quality, functionality, convenience, service etc.*
 
@@ -70,7 +70,7 @@ Extended triangle: Quality and Risks
     - Discuss & Secure project findings to improve future projects
     - Dissolving of project organization
 
-![Changes over project phase in impact of decisions, risk, costs and knowledge](image%201.png)
+![Changes over project phase in impact of decisions, risk, costs and knowledge](/Course%20Summary/_resources/ProjectManagement-image1.png)
 
 Changes over project phase in impact of decisions, risk, costs and knowledge
 
@@ -84,7 +84,7 @@ Activities structured into phases & work packages. Sequential processing of proj
 Note: *Less used as not one single person can know the whole product 
 → distribution of responsibility*
 
-![image.png](image%202.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image2.png)
 
 - Example: Waterfall
     
@@ -92,7 +92,7 @@ Note: *Less used as not one single person can know the whole product
     
     Phase-rollback if phase NOT sucessfully completed
     
-    ![image.png](image%203.png)
+    ![image.png](/Course%20Summary/_resources/ProjectManagement-image3.png)
     
 
 ### Agile
@@ -100,7 +100,7 @@ Note: *Less used as not one single person can know the whole product
 **Definition**: 
 Self-organizing team, continuous review and adaptation of team. Focused on: **fast**, **iterative** delivery of results & prototypes
 
-![image.png](image%204.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image4.png)
 
 - Example: SCRUM
     
@@ -119,7 +119,7 @@ Self-organizing team, continuous review and adaptation of team. Focused on: **fa
     
     Overview:
     
-    ![image.png](image%205.png)
+    ![image.png](/Course%20Summary/_resources/ProjectManagement-image5.png)
     
 
 ### Hybrid approach
@@ -155,7 +155,7 @@ $\to$ Combination of elements form plan-based & agile method
     → precise technical specification necessary to meet objects&goals
     
 
-![image.png](image%206.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image6.png)
 
 ## 1.2 Project Phases & Milestones
 
@@ -191,7 +191,7 @@ Organization Breakdown structure:
 
 → Who does what and how do people relate to each other?
 
-![Contact officer: Change negotiations, System Engineer: make sure all fits together, Product assurance: quality management, Project Manager: Make team perform](image%207.png)
+![Contact officer: Change negotiations, System Engineer: make sure all fits together, Product assurance: quality management, Project Manager: Make team perform](/Course%20Summary/_resources/ProjectManagement-image7.png)
 
 Contact officer: Change negotiations, System Engineer: make sure all fits together, Product assurance: quality management, Project Manager: Make team perform
 
@@ -269,7 +269,7 @@ Other Methods:
 - Underestimation: estimated effort < actual effort
     - Additional efforts required to manage discrepancy btw. estimated & actual effort
 
-![Total effort of project depends on whether the actual effort is under- or overestimated.](image%208.png)
+![Total effort of project depends on whether the actual effort is under- or overestimated.](/Course%20Summary/_resources/ProjectManagement-image8.png)
 
 Total effort of project depends on whether the actual effort is under- or overestimated.
 
@@ -277,7 +277,7 @@ How to properly handle the situation?
 
 → **Margin-Management**: actively estimated based on project situation, know-how and Environment
 
-![image.png](image%209.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image9.png)
 
 ## 2.2 Project Schedule
 
@@ -307,7 +307,7 @@ Cost plan →  cost curve
 
 ⇒ cost curve is never directly linear
 
-![image.png](image%2010.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image10.png)
 
 ---
 
@@ -315,7 +315,7 @@ Cost plan →  cost curve
 
 Deming Cycle:
 
-![image.png](image%2011.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image11.png)
 
 Adaptations:
 
@@ -348,13 +348,13 @@ If deviation between planned & actual, determine:
 - Time-to complete
 - Cost-to-Complete
 
-![image.png](image%2012.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image12.png)
 
 - Example Method: Earned Value Analysis (EVA)
     
      → Combines magic triangle: Scope, Cost & Time
     
-    ![Only Aspects that have been fully completed & reviewed contribute to EV](image%2013.png)
+    ![Only Aspects that have been fully completed & reviewed contribute to EV](/Course%20Summary/_resources/ProjectManagement-image13.png)
     
     Only Aspects that have been fully completed & reviewed contribute to EV
     
@@ -370,7 +370,7 @@ horizontal line: if everything works as planed
 
 vertical line: changes in plans, delay
 
-![image.png](image%2014.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image14.png)
 
 ## 3.3 Change and Claim Management
 
@@ -378,7 +378,7 @@ Def: Claim = not instructed change of scope
 
 **Change management**
 
-![Schematic Change Management Process](image%2015.png)
+![Schematic Change Management Process](/Course%20Summary/_resources/ProjectManagement-image15.png)
 
 Schematic Change Management Process
 
@@ -511,13 +511,13 @@ do risk assessment before beginning of project
 
 Goal: Mitigate risk \to severity $\downarrow$
 
-![image.png](image%2016.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image16.png)
 
-![image.png](image%2017.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image17.png)
 
 Risk trend Chart
 
-![image.png](image%2018.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image18.png)
 
 ---
 
@@ -540,14 +540,14 @@ $\to$ Quality is part of the product assurance!
 
 $\to$ Consists of Quality Assurance and Quality Control
 
-![image.png](image%2019.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image19.png)
 
 - **Quality assurance**
     
     Objective: 
     Ensure consistent adherence to methods and processes during the project life cycle in order to produce a high-quality product
     
-    ![image.png](image%2020.png)
+    ![image.png](/Course%20Summary/_resources/ProjectManagement-image20.png)
     
 
 ## 6.2 Quality Management Tools
@@ -655,7 +655,7 @@ Communication Forms
     - Highlights
     - Issues
     
-    ![image.png](image%2021.png)
+    ![image.png](/Course%20Summary/_resources/ProjectManagement-image21.png)
     
     Typical content:
     
@@ -668,7 +668,7 @@ Communication Forms
 
 Successful Project Meetings
 
-![image.png](image%2022.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image22.png)
 
 ## 7.3 Configuration and Data Management
 
@@ -703,7 +703,7 @@ Process:
     - Verified baseline
     - Audit Reports
 
-![image.png](image%2023.png)
+![image.png](/Course%20Summary/_resources/ProjectManagement-image23.png)
 
 **Information/Documentation Management**
 

@@ -21,7 +21,7 @@ This document outlines key concepts of remote sensing, its methods, and applicat
     - **Diffuse**: Rough surfaces scatter light in multiple directions.
 - **Transmission**: EM radiation passes through materials without altering its frequency; influenced by surface and material properties.
 
-![image.png](image.png)
+![image.png](/Course%20Summary/_resources/EarthObservation-image.png)
 
 ### **3. Atmospheric Effects**
 
@@ -43,19 +43,19 @@ This document outlines key concepts of remote sensing, its methods, and applicat
 - **Spectral**: Ability to distinguish finer wavelength intervals; higher spectral resolution provides detailed material composition data.
 - **Temporal**: Time intervals between repeated images; critical for monitoring dynamic phenomena like wildfires.
 
-![Spatial](image%201.png)
+![Spatial](/Course%20Summary/_resources/EarthObservation-image1.png)
 
 Spatial
 
-![Radiometric](image%202.png)
+![Radiometric](/Course%20Summary/_resources/EarthObservation-image2.png)
 
 Radiometric
 
-![Spectral](image%203.png)
+![Spectral](/Course%20Summary/_resources/EarthObservation-image3.png)
 
 Spectral
 
-![Temporal](image%204.png)
+![Temporal](/Course%20Summary/_resources/EarthObservation-image4.png)
 
 Temporal
 

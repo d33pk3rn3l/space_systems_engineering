@@ -28,7 +28,7 @@ Below you will find links to sub-pages for each specific area:
     - Cost & Schedule: Dictate depth of testing, [technology readiness](https://d33pk3rn3l.github.io/sse_page/Concepts/Technology-Readiness-Level), and iterative loops.
     - Reliability & Lifetime: Influence redundancy, component quality, and testing rigor.
     
-    ![Untitled diagram-2025-01-08-092317.png](Untitled_diagram-2025-01-08-092317.png)
+    ![Untitled diagram-2025-01-08-092317.png](/Course%20Summary/_resources/SpacecraftDesign-Untitled_diagram-2025-01-08-092317.png)
     
 3. [**Spacecraft Subsystems**](https://d33pk3rn3l.github.io/sse_page/Topics/Spacecraft-Design-Overview/Spacecraft-Subsystems)
     - Each subsystem (e.g., propulsion, ADC, power, thermal, structures, TT&C, onboard processing) must integrate seamlessly to meet mission goals.
