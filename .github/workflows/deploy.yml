@@ -37,6 +37,7 @@ jobs:
       - name: Override Default Config
         run: |
           cp content/quartz.config.ts .
+          cp content/custom.scss ./quartz/styles/
 
       # Step 3: Setup Node
       - name: Setup Node

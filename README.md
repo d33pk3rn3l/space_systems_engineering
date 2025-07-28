@@ -1,30 +1,29 @@
-# Space Systems Engineering Notes
+# Space Systems Engineering - Student Resources
 
-This repository contains the content for the [Space Systems Engineering](https://www.google.com/search?q=https://d33pk3rn3l.github.io/space_systems_engineering) digital garden, a summary of the lecture at ETH Zurich. The site is built with [Quartz](https://quartz.jzhao.xyz/) and automatically deployed to GitHub Pages via a GitHub Actions workflow in `.github/workflows/deploy.yml`.
+This repository contains the sources for the student website of the [Space Systems Engineering](https://www.google.com/search?q=https://d33pk3rn3l.github.io/space_systems_engineering) program at ETH Zurich.
 
-## How to Contribute
+## Build
 
-1.  **Clone the repository.**
-2.  **Edit content:** All content is in markdown files.
-      * Main pages are in the `Concepts` and `Topics` directories.
-      * Images and other assets go in the `attachments` directory.
-      * [Obsidian](https://obsidian.md/) is recommended for automatically handling internal links.
-3.  **Respect Copyright:** Ensure you have the right to use any images, text, or assets you add. Respect all copyright and licensing of original materials.
-4.  **Push to `main`:** Changes pushed to the `main` branch will automatically trigger a build and deployment.
+The site is built with [Quartz](https://quartz.jzhao.xyz/) and automatically deployed to GitHub Pages via a GitHub Actions workflow in `.github/workflows/deploy.yml`.
 
-## Local Development
+To build and test the website locally, roughly follow the below workflow.
 
-To preview changes locally before pushing:
+```bash
+git clone https://github.com/jackyzha0/quartz
+cd quartz
+rm -r ./content
+ln -s ../content content
+cp ../quartz.config.ts .
+npm install
+npx quartz build --serve
+```
 
-1.  **Install dependencies**:
-    ```bash
-    npm install
-    ```
-2.  **Run the dev server**:
-    ```bash
-    npx quartz dev
-    ```
-
-## Configuration
+To edit the contents of the webpages, simply edit the markdown files, following a similar structure as the already existing content in `content/`.
 
 The site's appearance and navigation are defined in `quartz.config.ts`. You can edit this file to change the site's structure and metadata.
+
+Ensure you have the right to use any images, text, or assets you add. Respect all copyright and licensing of original materials.
+
+## Contribute
+
+Please open pull requests to suggest changes/additions to the website. Once merged, the changes should be online in a matter of minutes.
