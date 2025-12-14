@@ -1,6 +1,3 @@
----
-title: Overview
----
 # Course Summary Overview
 
 This digital garden is a network of interconnected ideas, notes, and summaries that capture the essence of the lecture, primarily based on the book *[Space Mission Engineering: The New SMAD](https://www.amazon.com/Space-Mission-Engineering-New-SMAD/dp/1881883108)* by James R. Wertz and Wiley J. Larson. 
@@ -28,24 +25,24 @@ This summary has been generated with the assistance of various AI tools.
 # Topics
 
 * meta
-    * [[Course Summary/Authors]]
-    * [[Course Summary/Kursplan]]
+    * [[Course Summary/00_1 Authors]]
+    * [[Course Summary/00_2 Kursplan]]
 * topics covered in 2024, in chronological order:
-    * [[Course Summary/Space Environment]]
-    * [[Course Summary/Structure & Thermals]]
-    * [[Course Summary/Systems Engineering]]
-    * [[Course Summary/Spacecraft Design]]
-    * [[Course Summary/Orbital Dynamics]]
-    * [[Course Summary/Communication]]
-    * [[Course Summary/Propulsion]]
-    * [[Course Summary/Controls & Computing]]
-    * [[Course Summary/Sustainability]]
-    * [[Course Summary/DRAFT: Payload Design Overview]]
-    * [[Course Summary/Observational Payload]]
-    * [[Course Summary/Earth Observation]]
-    * [[Course Summary/Logistics & MAIT]]
-    * [[Course Summary/Human Spaceflight]]
-    * [[Course Summary/Project Management]]
-    * [[Course Summary/Launch Vehicles]]
-    * [[Course Summary/Ground Systems]]
-    * [[Course Summary/DRAFT: Launch Operations]]
+    * [[Course Summary/01 Space Environment]]
+    * [[Course Summary/02 Structure & Thermals]]
+    * [[Course Summary/03 Systems Engineering]]
+    * [[Course Summary/04 Spacecraft Design]]
+    * [[Course Summary/05 Orbital Dynamics]]
+    * [[Course Summary/06 Communication]]
+    * [[Course Summary/07 Propulsion]]
+    * [[Course Summary/08 Controls & Computing]]
+    * [[Course Summary/09 Sustainability]]
+    * [[Course Summary/10 DRAFT: Payload Design Overview]]
+    * [[Course Summary/11 Observational Payload]]
+    * [[Course Summary/12 Earth Observation]]
+    * [[Course Summary/13 Logistics & MAIT]]
+    * [[Course Summary/14 Human Spaceflight]]
+    * [[Course Summary/15 Project Management]]
+    * [[Course Summary/16 Launch Vehicles]]
+    * [[Course Summary/17 Ground Systems]]
+    * [[Course Summary/18 DRAFT: Launch Operations]]
