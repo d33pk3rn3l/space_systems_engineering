@@ -30,14 +30,16 @@ jobs:
       - name: Checkout Our Content
         uses: actions/checkout@v4
         with:
-          path: content
+          path: content-temp
           fetch-depth: 0
 
-      # Step 2.1: Override default Quartz config with our content's config.
-      - name: Override Default Config
+      # Move content files to proper location
+      - name: Setup Content Directory
         run: |
-          cp content/quartz.config.ts .
-          cp content/custom.scss ./quartz/styles/
+          rm -rf content
+          mv content-temp/content content
+          cp content-temp/quartz.config.ts .
+          cp content-temp/custom.scss ./quartz/styles/
 
       # Step 3: Setup Node
       - name: Setup Node
@@ -48,6 +50,7 @@ jobs:
       # Step 4: Install dependencies from the framework's lockfile and build
       - name: Install Dependencies
         run: npm ci
+        
       - name: Build Quartz
         run: npx quartz build
 
