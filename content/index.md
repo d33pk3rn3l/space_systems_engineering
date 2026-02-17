@@ -1,9 +1,12 @@
 ---
 title: Home
+description: Student-maintained summary of the ETH Zurich Space Systems Engineering course with lecture notes, resources, and links for current and future students.
 ---
 # Home
 
-Welcome to the **Space System Engineering** digital garden! This website acts as a root for all students-maintained resources of the *[Space Systems](https://eaps.ethz.ch/en/studies/master/space-systems.html)* Master's program, and it's main lecture *[Space System Engineering](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=185578&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en)* held at ETH Zurich by Prof. Dr. Thomas Zurbuchen, Dr. Simon Christian Stähler, and Dr. Florian Kehl.
+Welcome to the **Space System Engineering** digital garden! This website acts as a root for all student-maintained resources of the *[Space Systems](https://eaps.ethz.ch/en/studies/master/space-systems.html)* Master's program, and its main lecture *[Space System Engineering](https://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=185578&semkez=2024W&ansicht=LEHRVERANSTALTUNGEN&lang=en)* held at ETH Zurich by Prof. Dr. Thomas Zurbuchen, Dr. Simon Christian Stähler, and Dr. Florian Kehl.
+
+This student-maintained site provides summary notes and study resources for ETH Zurich's Space Systems and Space System Engineering courses.
 
 Contacts:
 * for program-specific administrative questions, contact [Simon](https://eaps.ethz.ch/personen/profil.simon-staehler.html) or the head TA, [Benedikt Pohl](https://www.linkedin.com/in/d33pk3rn3l/)
